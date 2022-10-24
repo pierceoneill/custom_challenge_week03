@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------------------------------------------------------------------
+There is a time limit on the login page.
+It's 10 minutes for total amount of 2 trials, meaning that you can only guess 2 times, then you will be locked out for 10 minutes.
+------------------------------------------------------------------------------------------------------------------------------------------
+The usernames are:
+admin
+think
+------------------------------------------------------------------------------------------------------------------------------------------
+You can try to guess the password for the user "think" since it has an extremely weak password. (If you have enough time :D)
+Or, use the things that we have learned so far!
+------------------------------------------------------------------------------------------------------------------------------------------
+For the user "admin" you can try to password attack using a file I've put inside the folder in google drive. (The name is "Hint_passwords.txt")
+
+Link:
+https://drive.google.com/drive/folders/10KFlLbmUciKIQO7fltjw2cu8GA5dehC3?usp=sharing
+------------------------------------------------------------------------------------------------------------------------------------------
+There is a weakness inside the login page! Try to figure it out and strategize your attack!
+------------------------------------------------------------------------------------------------------------------------------------------
